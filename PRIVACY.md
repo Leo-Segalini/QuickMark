@@ -177,4 +177,4 @@ Pour toute question concernant cette politique de confidentialité :
 
 ---
 
-*Cette politique de confidentialité est effective depuis le 15 janvier 2025 et s'applique à toutes les versions de QuickMark.*
+*Cette politique de confidentialité est effective depuis le 22 septembre 2025 et s'applique à toutes les versions de QuickMark.*
