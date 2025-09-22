@@ -1,6 +1,6 @@
 # Politique de Confidentialité - QuickMark
 
-*Dernière mise à jour : 15 janvier 2025*
+*Dernière mise à jour : 22 septembre 2025*
 
 ## Introduction
 
@@ -146,7 +146,7 @@ Si une version premium est développée, elle pourrait inclure :
 Pour toute question concernant cette politique de confidentialité :
 
 - **Email** : leo.segalini@outlook.com
-- **GitHub** : [https://github.com/votre-username/QuickMark/issues]
+- **GitHub** : https://github.com/Leo-Segalini/QuickMark/blob/main/PRIVACY.md
 - **Support** : Créez une issue sur GitHub pour toute question
 
 ### ⏰ **Délais de réponse**
